@@ -1,4 +1,4 @@
-# Innomatics_Data_Analysis-EV-Hackathon
+# Innomatics_Data_Analysis-Electric_Vehicles-Hackathon
 
 Data is of high-value in today’s rapidly growing environment. I am always interested in learning about new technologies in this ever-changing field of computing.
 Over the weekend, I participated in a Hackathon conducted by Innomatics Research Labs. 
