@@ -7,19 +7,19 @@ Through this hackathon, I could leverage my learnings, which gave me an opportun
 The Project idea was to do Data Analysis on Electric vehicles. The Analysis was done with the help of Python and I used various modules such as NumPy, Pandas, Seaborn, and Matplotlib. 
 
 
-## Task 1 was to apply Exploratory Data Analysis (Univariate and Bivariate) using plotly.express library.
+## Task 1: To apply Exploratory Data Analysis (Univariate and Bivariate) using plotly.express library.
   
   *Insights: 
     
     - 
     
-## Task 2 was to create a Choropleth to display the number of EV vehicles based on location.
+## Task 2: To create a Choropleth to display the number of EV vehicles based on location.
   
   *Insights: 
   
     - 
     
-## Task 3 was to create a Racing Bar Plot to display the animation of EV Make and its count each year.
+## Task 3: To create a Racing Bar Plot to display the animation of EV Make and its count each year.
 
   *Insights: 
   
