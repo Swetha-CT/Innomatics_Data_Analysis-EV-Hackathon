@@ -1,7 +1,7 @@
 # Innomatics_Data_Analysis-EV-Hackathon
 
 Data is of high-value in today’s rapidly growing environment. I am always interested in learning about new technologies in this ever-changing field of computing.
-Over the weekend I participated in a Hackathon conducted by Innomatics Research labs. 
+Over the weekend, I participated in a Hackathon conducted by Innomatics Research Labs. 
 Through this hackathon, I could leverage my learnings, which gave me an opportunity to explore the practical applications of Data Analysis field. 
 
 The Project idea was to do Data Analysis on Electric vehicles. The Analysis was done with the help of Python and I used various modules such as NumPy, Pandas, Seaborn, and Matplotlib. 
