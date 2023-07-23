@@ -1,4 +1,4 @@
-# Innomatics_Data_Analysis-Electric_Vehicles-Hackathon
+# Data Analysis on Electric Vehicles
 
 Data is of high-value in today’s rapidly growing environment. I am always interested in learning about new technologies in this ever-changing field of computing.
 Over the weekend, I participated in a Hackathon conducted by Innomatics Research Labs. 
@@ -55,7 +55,7 @@ We were given multiple tasks to do:
 
     *Insights :
     
-        - From the Choropleth map, it is observed that Washigton(WA) state has the highest number of Electric Vehicles usage.
+        - From the Choropleth map, it is observed that Washington (WA) state has the highest number of Electric Vehicles usage.
     
 ## Task 3: To create a Racing Bar Plot to display the animation of EV Make and its count each year.
 
@@ -63,7 +63,7 @@ We were given multiple tasks to do:
     
         - The Racing Bar plot illustrates the EVs made by each company and its count per year.
         - Through the obtained animation frame, it can be depicted that Tesla has been consistent in releasing EVs since 2016 and it has the maximum count pf Evs since then.
-        - Toyota, Nissan and Chevrolet are also competing failry in the race of manufacturing EVs.
+        - Toyota, Nissan and Chevrolet are also competing fairly in the race of manufacturing EVs.
         
     
 I was fascinated by the fact that we can transform data into critical fragments of information and get insights to make informed meaningful decisions. 
