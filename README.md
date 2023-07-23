@@ -35,8 +35,9 @@ Other Categories of EVs are:
 * Fuel Cell Electric Vehicle (FCEV) :
       - FCEV stores hydrogen gas in the tank and uses electric motors like BEV
       - Example: Toyota FCV Concept.
+
   
-We were given multiple tasks to do: 
+In the Hackathon, we were given multiple tasks to do: 
 ## Task 1: To apply Exploratory Data Analysis (Univariate and Bivariate) using plotly.express library.
 
     *Insights :
