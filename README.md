@@ -26,7 +26,7 @@ Electric Vehicles are majorly categorized into 3 types:-
       - Unlike HEVs, PHEVs battery can be charged through a plug-in socked as well as power generated through brakes.
       - Examples: BMW i8, Toyota Pruis Prime
   
-Other Categories are:
+Other Categories of EVs are:
 
 * Range Extension Type (REx) :
       - This type of vehicle features both a combustion engine and electric motor but most of the driving is done by the electric motor.
