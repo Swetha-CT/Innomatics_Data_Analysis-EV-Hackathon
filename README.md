@@ -14,7 +14,7 @@ Electric Vehicles are majorly categorized into 3 types:-
   - These vehicles are fully operated through power generated from a lithium-ion Battery.
   - BEVs do not contain traditional combustion engine and thus emits zero carbon monoxide or pollutants in the atmosphere.
   - Examples: Telsa Model 3, BMW i3, Ford Focus
-  - 
+    
 * Hybrid Electric Vehicle (HEV) :
   - This vehicle features both a conventional Combustion Engine and Battery powered Electric motor. But the battery cannot be charged by plugging in through an electric input or charging station, instead it captures energy while braking and the batteries are charged.
   - Mostly Electric motor is used at low speed and the combustion engine is used while going at higher speed, which gives maximum efficiency.
