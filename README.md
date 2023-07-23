@@ -7,7 +7,7 @@ Through this hackathon, I could leverage my learnings, which gave me an opportun
 The Project idea was to do 'Data Analysis on Electric vehicles'. The Analysis was done with the help of Python and I used various modules such as NumPy, Pandas, Seaborn, and Matplotlib. 
 
 ## Introduction of Electric vehicles : 
-
+The automobile industry is evolving and every major, minor and upcoming vehicle manufacturing company is shifting towards the adoption of Electric Vehicles termed as EVs.
 Electric Vehicles are majorly categorized into 3 types:-
 
 * Battery Electric Vehicle (BEV) : 
