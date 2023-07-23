@@ -8,22 +8,10 @@ The Project idea was to do 'Data Analysis on Electric vehicles'. The Analysis wa
 
 
 ## Task 1: To apply Exploratory Data Analysis (Univariate and Bivariate) using plotly.express library.
-  
-  *Insights: 
-    
-    - 
     
 ## Task 2: To create a Choropleth to display the number of EV vehicles based on location.
-  
-  *Insights: 
-  
-    - 
     
 ## Task 3: To create a Racing Bar Plot to display the animation of EV Make and its count each year.
-
-  *Insights: 
-  
-    - 
     
 I was fascinated by the fact that we can transform data into critical fragments of information and get insights to make informed meaningful decisions. 
 It has been an enriching experience that has helped me sharpen my knowledge.
