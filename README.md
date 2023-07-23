@@ -8,6 +8,7 @@ The Project idea was to do 'Data Analysis on Electric vehicles'. The Analysis wa
 
 ## Introduction of Electric vehicles : 
 The automobile industry is evolving and every major, minor and upcoming vehicle manufacturing company is shifting towards the adoption of Electric Vehicles termed as EVs.
+
 Electric Vehicles are majorly categorized into 3 types:-
 
 * Battery Electric Vehicle (BEV) : 
